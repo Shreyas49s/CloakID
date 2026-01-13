@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environments
+venv/
+env/
+
+# Ignore Large Files & Models
+*.safetensors
+*.ckpt
+*.bin
+*.pth
+
+# Ignore API Keys (Security!)
+my_keys.txt
+.env
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
