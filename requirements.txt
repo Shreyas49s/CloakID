@@ -1,0 +1,22 @@
+# Core AI & Deep Learning
+torch
+torchvision
+numpy
+
+# Hugging Face Ecosystem (The Engine)
+diffusers
+transformers
+accelerate
+huggingface_hub
+safetensors
+
+# Image Processing
+Pillow
+scipy
+mediapy
+
+# Utilities
+tqdm
+
+# Web Interface (For Phase 2)
+streamlit
